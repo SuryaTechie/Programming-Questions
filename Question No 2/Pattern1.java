@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PrintNumberPattern {
+public class Pattern1 {
 
     static void display2DMatrix(int[][] matrix) {
         for (int row = 0; row< matrix.length; row++) {
