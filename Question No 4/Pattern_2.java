@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class PrintPattern {
+public class Pattern_2 {
 
     //print the pattern
     public static void pattern(int n)
