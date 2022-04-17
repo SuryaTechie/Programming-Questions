@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class DiagonalPatternOddLength {
+public class Diagonal_Pattern_Odd_Length {
     public static void main(String[] args) {
 
         //String str = "ABCDEFGHIJK";
