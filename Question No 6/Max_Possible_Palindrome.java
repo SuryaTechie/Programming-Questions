@@ -1,5 +1,5 @@
 import java.util.*;
-public class MaximumPossiblePalindrome {
+public class Max_Possible_Palindrome {
 
     public static void main(String[] args)
     {
