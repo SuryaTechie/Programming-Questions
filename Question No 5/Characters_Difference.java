@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CharactersDifference {
+public class Characters_Difference {
     private static boolean isValid(String str) {
         int prevDiff = 0;
         prevDiff = Math.abs(str.charAt(0) - str.charAt(1));
