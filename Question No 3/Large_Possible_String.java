@@ -1,5 +1,5 @@
 import java.util.*;
-public class PrintLargePossible {
+public class Large_Possible_String {
     static void desOrder(char[] s)
     {
         //sort the array
