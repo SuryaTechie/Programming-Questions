@@ -1,5 +1,5 @@
 import java.util.*;
-public class PrintDistinct {
+public class Distinct_Words {
 
     public static void main(String args[])
     {
